@@ -7,5 +7,5 @@ HTML, CSS, JavaScript and Bootstrap 5 Portfolio Website
 * [Font Awesome 5](https://fontawesome.com/)
 
 
-This is the [live demo]((https://abhinaba-1.github.io/Portfolio/)) of the project . 
+This is the [live demo]([https://abhinaba-1.github.io/Portfolio/)]) of the project . 
 
